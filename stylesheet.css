@@ -215,7 +215,7 @@ header #icon3 a::before{
   }
   
 header #icon3 a:hover::before{
-    width: 5.2%;
+    width: 4.15%;
   }
 
 header #icon2 a::before{
@@ -232,7 +232,7 @@ header #icon2 a::before{
   }
   
 header #icon2 a:hover::before{
-    width: 5.8%;
+    width: 4.45%;
   }
 
   header #icon1 a::before{
@@ -249,7 +249,7 @@ header #icon2 a:hover::before{
   }
   
 header #icon1 a:hover::before{
-    width: 5%;
+    width: 4%;
   }
 
   /* down arrow */
